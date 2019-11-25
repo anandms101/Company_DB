@@ -1,0 +1,78 @@
+body 
+{
+    background-image: url(https://images.unsplash.com/photo-1525465506244-dbc4f9638b42?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1051&q=80);
+    background-position: center;
+    background-size:cover;
+}
+
+.navbar 
+{
+    border-radius: 20px;
+    margin-top: 10px;
+}
+
+.navbar-brand
+{
+    font-weight: 600;
+    font-size: large;
+}
+
+form
+{
+    background:rgba(0, 0, 0, 0.2);
+    margin-top:14%;
+    padding-left:4%;
+    padding-right:4%;
+    padding-top:5%;
+    padding-bottom:3%;
+    width: 40%;  
+    border-radius: 15px;
+}
+
+.form-group label
+{
+    color: rgb(247, 244, 244);
+    letter-spacing: 3px;
+    font-family: 'Philosopher', sans-serif;
+    font-size: large;
+}
+
+.form-group input
+{
+    font-family: 'El Messiri', sans-serif;
+    background-color: rgba(254, 254, 255, 0.623);
+    transition: all 250ms ease-out;
+}
+
+.form-group input:active
+{
+    background-color: rgb(184, 184, 187);
+}
+
+.btn
+{
+    background:#ffffffc5;  
+    text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.418);
+    letter-spacing: 2px;
+    transition: all 250ms ease-out;
+    color: rgb(0, 0, 0);
+    font-size: medium;
+    margin-top: 30px;
+    width: 150px;
+}
+.btn:hover
+{
+    background: rgb(50, 154, 224);
+    transform: scale(1.1,1.1)
+}
+
+.heading
+{
+    font-size: 25px;
+    margin-bottom: 40px;
+    text-align: center;
+    color: aliceblue;
+    font-family: 'El Messiri', sans-serif;
+    letter-spacing: 1px;
+}
+

@@ -1,0 +1,26 @@
+body 
+{
+    background-image: url(https://images.unsplash.com/photo-1525465506244-dbc4f9638b42?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1051&q=80);
+    background-position: center;
+    background-size:cover;
+}
+
+
+.table
+{
+    margin-top: 80px;
+    background: rgba(235, 233, 233, 0.658);
+}
+
+.navbar 
+{
+    border-radius: 20px;
+    margin-top: 10px;
+}
+
+.navbar-brand
+{
+    font-weight: 600;
+    font-size: large;
+}
+
